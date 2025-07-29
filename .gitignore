@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints
+
+# Mac system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Logs and dumps
+*.log
+
+# Data files (optional, if large or sensitive)
+*.csv
+*.zip
+*.db
+
+# Model files (optional if you generate locally)
+*.pkl
+*.joblib
+*.h5
+
+# Streamlit secrets (optional if you use them)
+.streamlit/secrets.toml
